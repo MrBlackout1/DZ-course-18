@@ -1,6 +1,6 @@
-package com.goit.restnotes.notes.dto.update;
+package com.goit.restnotes.note.dto.update;
 
-import com.goit.restnotes.notes.Note;
+import com.goit.restnotes.note.Note;
 import lombok.*;
 
 @Builder

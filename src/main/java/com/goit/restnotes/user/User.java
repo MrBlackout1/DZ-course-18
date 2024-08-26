@@ -1,6 +1,6 @@
-package com.goit.restnotes.users;
+package com.goit.restnotes.user;
 
-import com.goit.restnotes.notes.Note;
+import com.goit.restnotes.note.Note;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

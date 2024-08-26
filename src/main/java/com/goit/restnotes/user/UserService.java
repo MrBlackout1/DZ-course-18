@@ -1,4 +1,4 @@
-package com.goit.restnotes.users;
+package com.goit.restnotes.user;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

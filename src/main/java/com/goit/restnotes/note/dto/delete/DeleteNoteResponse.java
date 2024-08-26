@@ -1,4 +1,4 @@
-package com.goit.restnotes.notes.dto.delete;
+package com.goit.restnotes.note.dto.delete;
 
 import lombok.*;
 

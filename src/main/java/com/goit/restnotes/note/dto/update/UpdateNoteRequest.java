@@ -1,4 +1,4 @@
-package com.goit.restnotes.notes.dto.update;
+package com.goit.restnotes.note.dto.update;
 
 import lombok.*;
 

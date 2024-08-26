@@ -1,7 +1,7 @@
-package com.goit.restnotes.notes;
+package com.goit.restnotes.note;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.goit.restnotes.users.User;
+import com.goit.restnotes.user.User;
 import jakarta.persistence.*;
 import lombok.*;
 

@@ -1,4 +1,4 @@
-package com.goit.restnotes.users;
+package com.goit.restnotes.user;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

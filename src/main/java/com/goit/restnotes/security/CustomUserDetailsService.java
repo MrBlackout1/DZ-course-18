@@ -1,7 +1,7 @@
 package com.goit.restnotes.security;
 
-import com.goit.restnotes.users.User;
-import com.goit.restnotes.users.UserRepository;
+import com.goit.restnotes.user.User;
+import com.goit.restnotes.user.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

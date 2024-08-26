@@ -1,6 +1,6 @@
-package com.goit.restnotes.notes.dto.get;
+package com.goit.restnotes.note.dto.get;
 
-import com.goit.restnotes.notes.Note;
+import com.goit.restnotes.note.Note;
 import lombok.*;
 
 import java.util.List;

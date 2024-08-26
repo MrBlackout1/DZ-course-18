@@ -1,11 +1,11 @@
-package com.goit.restnotes.notes;
+package com.goit.restnotes.note;
 
-import com.goit.restnotes.notes.dto.create.CreateNoteRequest;
-import com.goit.restnotes.notes.dto.create.CreateNoteResponse;
-import com.goit.restnotes.notes.dto.delete.DeleteNoteResponse;
-import com.goit.restnotes.notes.dto.get.GetUserNotesResponse;
-import com.goit.restnotes.notes.dto.update.UpdateNoteRequest;
-import com.goit.restnotes.notes.dto.update.UpdateNoteResponse;
+import com.goit.restnotes.note.dto.create.CreateNoteRequest;
+import com.goit.restnotes.note.dto.create.CreateNoteResponse;
+import com.goit.restnotes.note.dto.delete.DeleteNoteResponse;
+import com.goit.restnotes.note.dto.get.GetUserNotesResponse;
+import com.goit.restnotes.note.dto.update.UpdateNoteRequest;
+import com.goit.restnotes.note.dto.update.UpdateNoteResponse;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
